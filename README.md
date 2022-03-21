@@ -3,3 +3,11 @@ Notre jeu TPStick est un jeu de tir à la troisième personne en multijoueur loc
 
 # Démo
 https://www.youtube.com/watch?v=87C6HlskdrU
+
+# Auteurs
+Mikaël Heck HECM20089605
+Gabriel Ouellet OUEG06049704
+Quentin Callens CALQ06109900
+Léo Vansimay VANL25010005
+Evan Weisse WEIE05079905
+
